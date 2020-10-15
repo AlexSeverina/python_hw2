@@ -118,7 +118,3 @@ class Array(object):
         :param rem_item: value of item to be removes
         """
         self.pop(self.index(rem_item))
-
-
-if __name__ == '__main__':
-    array_example = Array()
